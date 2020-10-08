@@ -1,4 +1,4 @@
-#Stock Market Simulator
+## Stock Market Simulator
 
 Java application that simulates the stock market with a zero sum order book.
 Allows users to place limit and market orders.
